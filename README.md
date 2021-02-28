@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+Hi Everyone! 
+
+A01339239 here, I like Python and C (I'm not made of that, but would like it to be embedded in my DNA). 
+I've had tacos in USA and DON'T find the far superior to Mexico's tacos.
